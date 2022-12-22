@@ -13,4 +13,4 @@ lsb_release -a
 ``` linux command
 sudo mount -t vboxsf Golang /home/suyanzan/Desktop/Window_Goling
 ```
-
+[VirtualBox與Windows共享資料夾](https://blog.xuite.net/yh96301/blog/76237032# "Title")
